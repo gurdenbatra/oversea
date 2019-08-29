@@ -23,7 +23,7 @@ function draw() {
     image(tabletTagline, 50, 500, 608, 306);
   }
   else {
-    image(mobileTagline, 50, 500, 260, 135);
+    image(mobileTagline, 50, 390, 260, 135);
   }
 
   translate(width/2, height/2);
